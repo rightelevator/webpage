@@ -4,4 +4,7 @@ background: url("http://rightelevator.com/media/back.jpg"); background-size: cov
 
 p{
 font-size: 40px;
+position: fixed;
+top: 50%;
+left: 50.9%;
 }
