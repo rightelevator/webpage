@@ -1,9 +1,8 @@
 body { 
+background-image: url("/media/back.jpg");  
 background: url("/media/back.jpg"); background-size: cover; 
-
 } 
 
 p{
 font-size: 40px;
-font-color: red;
 }
