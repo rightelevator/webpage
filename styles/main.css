@@ -1,6 +1,5 @@
-body { 
-background-image: url("/media/back.jpg");  
-background: url("/media/back.jpg"); background-size: cover; 
+body {  
+background: url("http://rightelevator.com/media/back.jpg"); background-size: cover; 
 } 
 
 p{
